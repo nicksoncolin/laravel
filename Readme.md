@@ -1,0 +1,1 @@
+The project is about Finance Data Analysis and it's implemented by Laravel PHP Framework. We have transactions and we fetch transaction data and we can handle it, operate with the data.
